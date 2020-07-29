@@ -1,0 +1,26 @@
+step 1 check if git is already installed.
+	terminal git --version
+step 2 Download and install git
+	https://git-scm.com/downloads
+
+Step 3 Singup and create a account git and github and login page
+https://github.com/siginup ,,https://github.com/login
+
+step 4 Add your github email and username to git
+	git config --global user.email "bhanumuthavarapu466@gmail.com"
+	git config --global user.name "bhanu6545"
+Step 5 : Add file/Folders to git - tracking  
+
+Step 6 Commands 
+	-terminal - go to the location of the folder/project
+	-git init
+	-git status
+	-git add
+	-git commit -m "what is commite you can write"
+	-git remote add origin --Git repo url--
+	-git push -u origin master
+	
+	
+Step 7  
+
+
