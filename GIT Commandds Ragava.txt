@@ -18,7 +18,7 @@ Step 6 Commands
 	-git add
 	-git commit -m "what is commite you can write"
 	-git remote add origin --Git repo url--
-	-git push -u origin master
+	-git push -u origin master(isuues git push -f --set-upstream origin master )
 	
 	
 Step 7  
